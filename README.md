@@ -1,5 +1,5 @@
 # studysync-ai
-Creates a summary, quiz, and flash cards from a text using LLM
+Creates a summary, quiz, and flash cards from a text using an LLM (such as Mistral) running locally on the machine.
 
 # Getting started
 
